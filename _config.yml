@@ -1,0 +1,51 @@
+# The Site Configuration
+
+# Import the theme
+theme: jekyll-theme-chirpy
+
+baseurl: ''
+
+# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
+# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
+# otherwise, the layout language will use the default value of 'en'.
+lang: ko-KR
+
+# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
+timezone: Asia/Seoul
+
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# ↓ --------------------------
+
+
+title: JLim's Blog
+tagline: 개발 블로그
+description: >-
+  개발 블로그
+
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+url: 'https://jlim10.github.io'
+
+github:
+  username: jlim10
+ 
+social:
+  name: Jaehwan Lim
+  email: jaehwan.lim10@gmail.com
+  links:
+    - https://github.com/jlim10 
+
+
+google_site_verification: 000
+
+google_analytics:
+  id: '000'
+  pv:           
+    proxy_endpoint:   
+    cache_path:   
+
+theme_mode:
+
+img_cdn: ''
+
+avatar: /assets/img/lagavulin_profile.jpeg
+
